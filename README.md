@@ -26,34 +26,17 @@ I care about **clean architecture**, **strong backend foundations**, and **under
 
 ---
 
-## 🔭 Currently Working On
-- Building full-stack projects with **TypeScript-first architecture**
-- Improving backend design with **Clean / Layered Architecture**
-- Deepening knowledge in **databases, system design, and cloud fundamentals**
-
----
-
-## 🚀 Goals
-- Design and develop **production-grade backend systems**
-- Master **TypeScript ecosystem** end-to-end
-- Build scalable, real-world applications using **cloud-native practices**
-
----
-
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammedsarisoy&show_icons=true&theme=default" />
 </p>
 
 ---
 
 ## 📫 Contact
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- Email: yourmail@example.com
+- GitHub: https://github.com/muhammedsarisoy
+- Email: muhammedsarisoyresmi@gmail.com
 
 ---
-
-> I prefer clarity over complexity, fundamentals over shortcuts, and long-term thinking over quick wins.
